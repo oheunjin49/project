@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d401e9ff-79c4-4d05-8411-10cf066d0097" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/assets/img/bg-callout.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/assets/img/bg-masthead.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/assets/img/chocolate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/assets/img/portfolio-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/assets/img/portfolio-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/assets/img/portfolio-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/assets/img/portfolio-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/assets/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/components/faq/EditFaq.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/components/faq/FaqList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/components/faq/registerFaq.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/services/FaqDataService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/src/views/HomeView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-end-20220623T041757Z-001/front-end/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../faq/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../faq/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../faq/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../faq/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../faq/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../faq/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../faq/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../faq/src/main/java/com/example/faq/FaqApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../faq/src/main/java/com/example/faq/Service/FaqService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../faq/src/main/java/com/example/faq/Service/FaqServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../faq/src/main/java/com/example/faq/ServletInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../faq/src/main/java/com/example/faq/controller/FaqController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../faq/src/main/java/com/example/faq/dao/FaqDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../faq/src/main/java/com/example/faq/model/Faq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../faq/src/main/java/com/example/faq/paging/Criteria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../faq/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../faq/src/main/resources/log4jdbc.log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../faq/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../faq/src/main/resources/mapper/Faq.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../faq/src/test/java/com/example/faq/FaqApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end-20220623T041757Z-001/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end-20220623T041757Z-001/.idea/front-end-20220623T041757Z-001.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end-20220623T041757Z-001/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end-20220623T041757Z-001/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end-20220623T041757Z-001/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front-end-20220623T041757Z-001/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/faq">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2BH16xY7JPqUco5l06qGXlCzWwT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="d401e9ff-79c4-4d05-8411-10cf066d0097" name="변경" comment="" />
+      <created>1656548026903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656548026903</updated>
+      <workItem from="1656548028778" duration="92000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
